@@ -1,5 +1,5 @@
 # wolt-eta-delay-classification
-Applied ML case study on predicting late deliveries against promised ETA bounds
+The work that I got invite to interview stage for Wolt applied science intern. Applied ML case study on predicting late deliveries against promised ETA bounds
 
 This project explores a delivery reliability problem: predicting whether an order will arrive later than the promised ETA upper bound.
 
